@@ -1,0 +1,7 @@
+{
+  "name": "MikroTik Serkom Network Admin Simulator",
+  "description": "Simulator dan game edukasi interaktif uji kompetensi kejuruan Network Administrator berbasis MikroTik RouterOS sesuai standar BNSP/UKK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
